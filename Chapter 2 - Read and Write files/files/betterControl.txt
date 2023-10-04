@@ -1,0 +1,3 @@
+I have better control in writing to a file
+
+I know that
